@@ -77,6 +77,102 @@
 
 ---
 
+# Data Set Understanding
+
+<details>
+<summary>Click to expand</summary>
+
+## Dimension Tables
+
+### `dim_customer`
+- **Distinct Markets**: 27 (e.g., India, USA, Spain)
+- **Distinct Customers**: 75 across markets
+- **Platform Types**:
+  - **Brick & Mortar**: Physical/offline stores
+  - **E-commerce**: Online stores (e.g., Amazon, Flipkart)
+- **Channels**:
+  - Retailer
+  - Direct
+  - Distributors
+
+### `dim_market`
+- **Distinct Markets**: 27 (e.g., India, USA, Spain)
+- **Sub-Zones**: 7
+- **Regions**: 4
+  - APAC
+  - EU
+  - NAN
+  - LATAM
+
+### `dim_product`
+- **Divisions**:
+  - P & A
+  - Peripherals
+  - Accessories
+  - PC
+  - Notebook
+  - Desktop
+  - N & S
+  - Networking
+  - Storage
+- **Categories**: 14 (e.g., Internal HDD, Keyboard)
+- **Variants**: Multiple variants available per product
+
+## Fact Tables
+
+### `fact_forecast_monthly`
+- **Purpose**: Forecast customer needs in advance to:
+  - Increase customer satisfaction
+  - Reduce warehouse storage costs
+- **Structure**: Denormalized for data warehousing and analytical purposes
+- **Date Handling**: All dates of the month are replaced by the start date of the month
+- **Columns**:
+  - All relevant dimension keys and attributes
+  - `forecast_quantity`: Forecasted quantity needed by the customer
+
+### `fact_sales_monthly`
+- **Purpose**: Track actual sales data
+- **Structure**: Similar to `fact_forecast_monthly`
+- **Columns**:
+  - All relevant dimension keys and attributes
+  - `sold_quantity`: Actual quantity sold
+
+### `freight_cost`
+- **Details**: 
+  - Travel costs and other expenses for each market
+  - Associated with fiscal years
+
+### `gross_price`
+- **Details**: 
+  - Gross prices linked to product codes
+
+### `manufacturing_cost`
+- **Details**: 
+  - Manufacturing costs linked to product codes and years
+
+### `pre_invoice_deductions`
+- **Details**: 
+  - Pre-invoice deduction percentages for each customer
+  - Associated with years
+
+### `post_invoice_deductions`
+- **Details**: 
+  - Post-invoice deductions and other related details
+
+## Importing Data into Power BI
+
+- **Database**: MySQL
+- **Steps**:
+  1. Open Power BI Desktop.
+  2. Select **Get Data** > **MySQL Database**.
+  3. Enter the MySQL server details and database name.
+  4. Provide the necessary database access credentials.
+  5. Select the required tables and load them into Power BI for analysis.
+
+</details>
+
+---
+
 ## **Data Model Overview**
 
 The data model contains 9 fact tables, 7 dimension tables, and 7 additional tables using DAX & Power Query.
