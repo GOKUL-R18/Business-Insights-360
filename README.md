@@ -69,7 +69,7 @@ Interact with [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjk1ZjNmMm
 ## Project Dashboard Views:
 
 ### **Overall Report**
-![Overall Report]()
+![Overall Report](https://github.com/GOKUL-R18/Business-Insights-360/blob/main/Resource/overall%20report%20gif.gif)
 
 ### **Home Page**
 ![Home_page](https://github.com/GOKUL-R18/Business-Insights-360/blob/main/Resource/home%20page.png)
