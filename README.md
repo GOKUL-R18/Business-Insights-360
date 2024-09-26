@@ -4,7 +4,7 @@ Uncovering Key Metrics Across Finance, Sales, Marketing, and Supply Chain
 ## Project Overview:
 **Company**: AtliQ Hardware - A fast-growing electronics manufacturing company.
 **Products**: PCs, Mouse, Keyboards, Printers, and other electronic accessories.
-**Problem**: AtliQ faced significant losses in Latin America (LATAM) due to decisions made purely based on intuition and limited surveys.
+**Problem**: AtliQ faced significant losses in Latin America (LATAM) due to decisions based purely on intuition and limited surveys.
 **Solution**: AtliQ decided to onboard a Data Analytics team for data-driven decision-making to ensure transparency and avoid such losses in the future.
 **Competitor**: Dell - Their competitor has a large data analytics team and relies entirely on data for decision-making.
 **Objective**: Develop a 360-degree view dashboard to provide key insights across Finance, Sales, Marketing, and Supply Chain.
@@ -14,24 +14,25 @@ Interact with [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjk1ZjNmMm
 ## Business Terms Used:
 1. Gross Sales (GS)
 2. Pre-Invoice Deduction
-3. Net Invoice Sales (NIS)
-4. Post-Invoice Discount
-5. Post-Invoice Other Deduction
-6. Total Post-Invoice Deduction
-7. Net Sales (NS)
-8. Manufacturing Cost
-9. Freight Cost
-10. Other Cost
-11. COGS - Cost of Goods Sold
-12. Gross Margin (GM)
-13. Gross Margin % (GM %)
-14. Gross Margin per Unit
+3. Net Invoice Sales (NI)
+4. Post-Invoice Deduction
+5. Net Sales (NS)
+6. Manufacturing Cost
+7. Freight Cost
+8. Other Cost
+9. Cost of Goods Sold (COGS)
+10. Gross Margin (GM)
+11. Operational Expenses
+12. Net Profit (NP)
+13. Net Error
+14. ABS Error
 15. Forecast Accuracy (FA)
-16. Forecast Accuracy % (FA %)
-17. Net Error
-18. ABS Error
-19. YTD - Year to Date
-20. YTG - Year to Go
+16. Risk
+17. Fiscal Year
+18. YTD - Year to Date
+19. YTG - Year to Go
+20. Target
+
 
 ## AtliQ Business Structure:
 - Platforms: Brick & Mortar and E-Commerce (Collectively known as Retailers).
@@ -61,32 +62,35 @@ Interact with [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjk1ZjNmMm
 - Power BI Service
 
 ## Data Model Overview:
-- The data model contains 9 fact tables and 7 dimension tables.
+- The data model contains 9 fact tables,7 dimension tables and 7 tables using Dax & Power Query.
 - **Data Model Structure:**
-![data_model](https://github.com/user-attachments/assets/97af715f-404a-4558-a61a-d1f21187448b)
+![data_model]()
 
 ## Project Dashboard Views:
 
+### **Overall Report**
+![Overall Report]()
+
 ### **Home Page**
-![Home_page](https://github.com/user-attachments/assets/0dd9698d-4b60-4fd4-9b25-ac21de981209)
+![Home_page]()
 
 ### **Finance View**
-![finance_view](https://github.com/user-attachments/assets/20e22969-c41e-4e8d-8dad-2a08f1a981f2)
+![finance_view]()
 
 ### **Sales View**
-![sales_view](https://github.com/user-attachments/assets/8a927ed1-056e-4010-af59-7e2666f036e9)
+![sales_view]()
 
 ### **Marketing View**
-![marketing_view](https://github.com/user-attachments/assets/d0c61062-1e33-4429-8073-84f588cad316)
+![marketing_view]()
 
 ### **Supply Chain View**
-![sc_view](https://github.com/user-attachments/assets/dbf5cbd4-bae1-47a7-9e49-e473c293abe1)
+![sc_view]()
 
 ### **Executive View**
-![executive_view](https://github.com/user-attachments/assets/3b9a23fa-efd9-4120-8853-6a1fbedbe0f6)
+![executive_view]()
 
 
 
 
 ## Project Outcome
-The Business Insights 360 dashboard provides a comprehensive view of AtliQ Hardware’s key business metrics across Finance, Sales, Marketing, and Supply Chain. By leveraging data-driven insights, the project helps AtliQ identify areas of improvement, optimize decision-making, and prevent future losses, ultimately enabling them to compete more effectively in the electronics market.
+The Business Insights 360 dashboard comprehensively provides AtliQ Hardware’s key business metrics across the Finance, Sales, Marketing, and Supply Chain departments. By leveraging data-driven insights, the project helps AtliQ Hardware identify areas of improvement, optimize decision-making, and prevent future losses, ultimately enabling them to compete more effectively in the electronics market.
