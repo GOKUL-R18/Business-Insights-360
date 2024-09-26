@@ -69,25 +69,25 @@ Interact with [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjk1ZjNmMm
 ## Project Dashboard Views:
 
 ### **Overall Report**
-![Overall Report](https://github.com/GOKUL-R18/Business-Insights-360/blob/main/Resource/overall%20report.mp4)
+![Overall Report]()
 
 ### **Home Page**
-![Home_page]()
+![Home_page](https://github.com/GOKUL-R18/Business-Insights-360/blob/main/Resource/home%20page.png)
 
 ### **Finance View**
-![finance_view]()
+![finance_view](https://github.com/GOKUL-R18/Business-Insights-360/blob/main/Resource/finance%20view.png)
 
 ### **Sales View**
-![sales_view]()
+![sales_view](https://github.com/GOKUL-R18/Business-Insights-360/blob/main/Resource/sales%20view.png)
 
 ### **Marketing View**
-![marketing_view]()
+![marketing_view](https://github.com/GOKUL-R18/Business-Insights-360/blob/main/Resource/marketing%20view.png)
 
 ### **Supply Chain View**
-![sc_view]()
+![sc_view](https://github.com/GOKUL-R18/Business-Insights-360/blob/main/Resource/supply%20chain%20view.png)
 
 ### **Executive View**
-![executive_view]()
+![executive_view](https://github.com/GOKUL-R18/Business-Insights-360/blob/main/Resource/executive%20view.png)
 
 
 
