@@ -64,12 +64,12 @@ Interact with [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjk1ZjNmMm
 ## Data Model Overview:
 - The data model contains 9 fact tables,7 dimension tables and 7 tables using Dax & Power Query.
 - **Data Model Structure:**
-![data_model]()
+![data_model](https://github.com/GOKUL-R18/Business-Insights-360/blob/main/Resource/Data_model.png)
 
 ## Project Dashboard Views:
 
 ### **Overall Report**
-![Overall Report]()
+![Overall Report](https://github.com/GOKUL-R18/Business-Insights-360/blob/main/Resource/overall%20report.mp4)
 
 ### **Home Page**
 ![Home_page]()
