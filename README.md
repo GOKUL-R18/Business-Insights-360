@@ -3,11 +3,11 @@
 
 Transformed decision-making at AtliQ Hardware by developing a dynamic Power BI dashboard that enhanced data visibility and provided strategic insights across finance, sales, marketing, and supply chain functions. The dashboard empowered teams to make data-driven decisions, optimize operations, and improve business performance.
 
-Finance View: Delivered in-depth financial analytics covering revenue trends, expenses, and profit margins, improving financial planning.
-Sales View: Analyzed product performance and customer behavior, refining sales strategies and optimizing efforts.
-Marketing View: Measured campaign effectiveness and ROI, enhancing customer engagement.
-Supply Chain View: Improved inventory management and demand forecasting for operational efficiency.
-Executive View: Provided real-time insights for senior management to support strategic decisions.
+***Finance View:*** Delivered in-depth financial analytics covering revenue trends, expenses, and profit margins, improving financial planning.
+***Sales View:*** Analyzed product performance and customer behavior, refining sales strategies and optimizing efforts.
+***Marketing View:*** Measured campaign effectiveness and ROI, enhancing customer engagement.
+***Supply Chain View:*** Improved inventory management and demand forecasting for operational efficiency.
+***Executive View:*** Provided real-time insights for senior management to support strategic decisions.
 
 This comprehensive integration of data empowered AtliQ Hardware to enhance operational efficiency and drive strategic growth.
 
