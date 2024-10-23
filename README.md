@@ -1,16 +1,6 @@
 # **Business Insights 360**
 **Uncovering Key Metrics Across Finance, Sales, Marketing, and Supply Chain**
 
-Transformed decision-making at AtliQ Hardware by developing a dynamic Power BI dashboard that enhanced data visibility and provided strategic insights across finance, sales, marketing, and supply chain functions. The dashboard empowered teams to make data-driven decisions, optimize operations, and improve business performance.
-
-1. ***Finance View:*** Delivered in-depth financial analytics covering revenue trends, expenses, and profit margins, improving financial planning.
-2. ***Sales View:*** Analyzed product performance and customer behavior, refining sales strategies and optimizing efforts.
-3. ***Marketing View:*** Measured campaign effectiveness and ROI, enhancing customer engagement.
-4. ***Supply Chain View:*** Improved inventory management and demand forecasting for operational efficiency.
-5. ***Executive View:*** Provided real-time insights for senior management to support strategic decisions.
-
-This comprehensive integration of data empowered AtliQ Hardware to enhance operational efficiency and drive strategic growth.
-
 ---
 
 ## **Project Overview**
@@ -25,6 +15,18 @@ This comprehensive integration of data empowered AtliQ Hardware to enhance opera
 **Interact with the [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjk1ZjNmMmMtNWIyYy00ODExLTlhZTAtY2JhNGNlNGVlOTUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ---
+
+## **Project Summary**
+
+Transformed decision-making at AtliQ Hardware by developing a dynamic Power BI dashboard that enhanced data visibility and provided strategic insights across finance, sales, marketing, and supply chain functions. The dashboard empowered teams to make data-driven decisions, optimize operations, and improve business performance.
+
+1. ***Finance View:*** Delivered in-depth financial analytics covering revenue trends, expenses, and profit margins, improving financial planning.
+2. ***Sales View:*** Analyzed product performance and customer behavior, refining sales strategies and optimizing efforts.
+3. ***Marketing View:*** Measured campaign effectiveness and ROI, enhancing customer engagement.
+4. ***Supply Chain View:*** Improved inventory management and demand forecasting for operational efficiency.
+5. ***Executive View:*** Provided real-time insights for senior management to support strategic decisions.
+
+This comprehensive integration of data empowered AtliQ Hardware to enhance operational efficiency and drive strategic growth.
 
 ## **Business Terms Used**
 
